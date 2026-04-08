@@ -2668,8 +2668,7 @@ a {
 }
 
 .page-wrapper {
-  background-image: url("../images/6981c51aeca51d6bf19c38e0_BG%20-%202026-02-03T155108.602.webp");
-  background-repeat: no-repeat;
+  /* background-image: url("images/pot1.webp"); */
   background-size: cover;
   overflow: clip;
 }
@@ -4639,7 +4638,7 @@ a {
 
 .font-size-7xl {
   color: var(--_color---white);
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: var(--_typography---line-height--line-height-1);
   font-weight: var(--fonts-weight--semi-bold);
   text-transform: uppercase;
@@ -4709,7 +4708,7 @@ a {
   -webkit-backdrop-filter: blur(26px);
   backdrop-filter: blur(26px);
   flex: none;
-  width: 23.5rem;
+  width: 22.5rem;
   position: relative;
   overflow: hidden;
 }
@@ -5353,7 +5352,7 @@ a {
 }
 
 .services-title-pill {
-  height: 4rem;
+  height: 2rem;
   overflow: hidden;
 }
 
@@ -5462,7 +5461,7 @@ a {
 }
 
 .h-w-work-image-wrap {
-  background-image: linear-gradient(#00000080, #00000080), url("../images/6988587c6e1208c8951566bd_Rectangle%20240648683%20(1).webp");
+  background-image: linear-gradient(#00000080, #00000080), url("../images/slider1.webp");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5481,7 +5480,7 @@ a {
 
 .h-w-work-image-wrap.v3 {
   z-index: 1;
-  background-image: linear-gradient(#00000080, #00000080), url("../images/69847ac97524deb9b58688b9_67ee215688f13b2e796aa7f5_Cube%20Image%20(copy).webp");
+  background-image: linear-gradient(#00000080, #00000080), url("../images/698868e522354c21181b775a_minimalist-laptop-setup-8daic.webp");
 }
 
 .logo-marque-list-wrap {
@@ -7006,7 +7005,7 @@ a {
   }
 
   .h-w-work-image-wrap {
-    background-image: linear-gradient(#000000b3, #000000b3), url("../images/6988587c6e1208c8951566bd_Rectangle%20240648683%20(1).webp");
+    background-image: linear-gradient(#000000b3, #000000b3), url("../images/slider1.webp");
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -7685,7 +7684,7 @@ a {
   }
 
   .services-title-pill {
-    height: 2.7rem;
+    height: 2rem;
   }
 
   .blog-grid-main {
