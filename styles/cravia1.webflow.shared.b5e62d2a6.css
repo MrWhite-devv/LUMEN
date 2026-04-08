@@ -4639,7 +4639,7 @@ a {
 
 .font-size-7xl {
   color: var(--_color---white);
-  font-size: var(--_typography---font-size--font-size-7xl);
+  font-size: 2rem;
   line-height: var(--_typography---line-height--line-height-1);
   font-weight: var(--fonts-weight--semi-bold);
   text-transform: uppercase;
